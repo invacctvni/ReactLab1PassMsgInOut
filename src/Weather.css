@@ -1,0 +1,9 @@
+
+
+.container {
+    border: 2px #61dafb solid;
+    min-width: 400px;
+    height: 230px;
+    margin-left: 0;
+    margin-right: 0;
+}
